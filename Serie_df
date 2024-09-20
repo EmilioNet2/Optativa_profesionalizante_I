@@ -1,0 +1,70 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyP7O0udUr1PhpQYYUxRDDcQ",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/EmilioNet2/Optativa_profesionalizante_I/blob/main/Serie_df\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Ejercicio 01\n",
+        "\n",
+        "Teoria:\n",
+        "\n",
+        "Explicacion de Series y DataFrames Diferencias y usos de cada estructura"
+      ],
+      "metadata": {
+        "id": "LCdYD3WyRxH1"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "Import pandas as pd\n",
+        "Import numpy as np\n",
+        "\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 110
+        },
+        "id": "jDErNoahSDY7",
+        "outputId": "bf12f375-66fc-409b-f430-6d8207473e27"
+      },
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "SyntaxError",
+          "evalue": "invalid syntax (<ipython-input-1-3f3d843d73b2>, line 1)",
+          "traceback": [
+            "\u001b[0;36m  File \u001b[0;32m\"<ipython-input-1-3f3d843d73b2>\"\u001b[0;36m, line \u001b[0;32m1\u001b[0m\n\u001b[0;31m    Import pandas as pd\u001b[0m\n\u001b[0m           ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
